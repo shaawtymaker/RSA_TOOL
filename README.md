@@ -19,14 +19,6 @@ Perfect for learning how public-key cryptography works.
 
 ---
 
-## 📂 Project Structure
-rsa-project/
-│
-├── rsa_encryptor.py # GUI for encryption
-├── rsa_decrypter.py # GUI for decryption
-├── screenshot.png # Example GUI screenshot
-└── README.md # Documentation
-
 ## ⚡ Installation
 Clone the repository:
 ```bash
@@ -42,25 +34,25 @@ Run:
 python rsa_encryptor.py
 ```
 
-Enter your message.
+Steps:
 
-Provide or generate (e, n) public key.
+1) Enter your message.
 
-Click Encrypt to get ciphertext.
+2) Provide or generate (e, n) public key.
+
+3) Click Encrypt to get ciphertext.
+
 
 
 🔓 Decryption
 
-Run:
-```bash
-python rsa_decrypter.py
-```
+1) Switch to the Decrypter tab.
 
-Enter private key (d, n) in tuple format → e.g. (45659, 67721)
+2) Enter private key (d, n) in tuple format → e.g. (45659, 67721)
 
-Paste ciphertext in Python list format → e.g. [24286, 24851, 48229, 48229, 45023]
+3) Paste ciphertext in Python list format → e.g. [24286, 24851, 48229, 48229, 45023]
 
-Click Decrypt to reveal original message.
+4) Click Decrypt to reveal original message.
 
 
 ⚠️ Common Issues
