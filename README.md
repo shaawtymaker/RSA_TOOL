@@ -27,6 +27,7 @@ cd rsa-project
 ```
 
 ▶️ Usage
+
 🔏 Encryption
 
 Run:
@@ -54,6 +55,7 @@ Steps:
 
 4) Click Decrypt to reveal original message.
 
+---
 
 ⚠️ Common Issues
 
