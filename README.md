@@ -44,7 +44,7 @@ Steps:
 
 3) Click Encrypt to get ciphertext.
 
-### 🔓 Decryption
+## 🔓 Decryption
 
 1) Switch to the Decrypter tab.
 
