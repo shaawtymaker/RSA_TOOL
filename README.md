@@ -22,7 +22,7 @@ Perfect for learning how public-key cryptography works.
 ## ⚡ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/rsa-project.git
+git clone https://github.com/shaawtymaker/RSA_TOOL.git
 cd rsa-project
 ```
 ---
