@@ -33,7 +33,7 @@ cd rsa-project
 
 Run:
 ```bash
-python rsa_encryptor.py
+python rsa_tk.py
 ```
 
 Steps:
